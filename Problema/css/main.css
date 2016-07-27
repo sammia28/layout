@@ -1,0 +1,107 @@
+
+body{
+	background: #FFFFFF;
+}
+
+
+.logotipo{
+	width: 1000px;
+    margin-left: 115px;
+
+}
+
+.raya{
+	margin-left: 45px;
+    width: 80%;
+}
+
+header, .content, footer {
+	background: #FFFFFF;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+.opaco{
+    margin-right: 70px;
+}
+
+header nav{
+	background: #FFFFFF;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+
+header nav ul{
+	list-style: none;
+    display: block;
+    margin: 4px;
+    width: 90%;
+    padding: 20px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+
+}
+
+header nav ul li {
+	float: left;
+    padding: 0px 45px;
+}
+
+header nav ul li a{
+	display: block;
+	text-decoration: none;
+}
+
+.linea{
+	margin-left: 365px;
+	margin-top: 56px;
+}
+
+p{
+	text-align: center;
+    margin: 40px;
+    font-size: 33px;
+}
+
+/*nuestras coders*/
+.caja{
+ 	margin-left: 100px;
+ 	margin-top: 30px;
+}
+
+ .coder1{
+ 	display: inline-block;
+	margin: 20px;
+ 	position: relative;
+ 	width: 150px;
+ 	height: 150px;
+}
+
+ .nombres{
+ 	display:inline-block;
+ 	position: absolute;
+ 	bottom: 0px;
+ 	right: 0px;
+ 	color: #FFFFFF;
+}
+
+ h2{
+ 	font-size: 34px;
+    margin-left: 100px;
+    margin-top: 75px;
+ }
+
+ hr{
+ 	width: 70px;
+ 	height:3px;
+ 	left:15px;
+ 	background: black;
+ 	margin-left: 100px;
+ 	margin-bottom: 0px;
+}
+ a.opaco:hover{
+ 	opacity: 0.5;
+}
